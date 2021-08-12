@@ -1,4 +1,4 @@
-//Acciones
+//Acciones  
 
 interface Action{
     type:string;
