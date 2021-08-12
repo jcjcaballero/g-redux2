@@ -1,4 +1,5 @@
 //Acciones  
+//Segundo comentario
 
 interface Action{
     type:string;
