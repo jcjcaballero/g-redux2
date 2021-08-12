@@ -1,4 +1,5 @@
 //Acciones
+
 interface Action{
     type:string;
     payload?: any;
@@ -19,7 +20,6 @@ function reducer(state=10, action:Action){
       default:
          return state;
     }
-  
 }
 
 
@@ -30,4 +30,3 @@ function reducer(state=10, action:Action){
 //console.log(reducer(10, multiplicadorAction)); // 20
 
 // console.log(reducer(10, dividirAction)); // 5
- 
