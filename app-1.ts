@@ -1,4 +1,10 @@
-//Acciones
+//Acciones  
+//Segundo comentario
+//Este es el comentario de la ramma feature a partir de la develop que estab subida.
+//Esta linea la modifico en la rama ramaJonnathan.
+//Esta es la nueva rama de Jonnathan que nace a partir de la rama de MyFeature. 
+//Aqui tranqui editando la rama de Jonnathan.
+
 interface Action{
     type:string;
     payload?: any;
@@ -19,7 +25,6 @@ function reducer(state=10, action:Action){
       default:
          return state;
     }
-  
 }
 
 
@@ -30,4 +35,3 @@ function reducer(state=10, action:Action){
 //console.log(reducer(10, multiplicadorAction)); // 20
 
 // console.log(reducer(10, dividirAction)); // 5
- 
