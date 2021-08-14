@@ -3,6 +3,7 @@
 //Este es el comentario de la ramma feature a partir de la develop que estab subida.
 //Aqui se limpia la interfaz grafica con todas las funcones innecesarias.
 //Esta es la nueva rama de Jonnathan que nace a partir de la rama de MyFeature. 
+//Aqui tranqui editando la rama de Jonnathan.
 
 interface Action{
     type:string;
