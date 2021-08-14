@@ -1,6 +1,7 @@
 //Acciones  
 //Segundo comentario
 //Este es el comentario de la ramma feature a partir de la develop que estab subida.
+//Aqui se limpia la interfaz grafica con todas las funcones innecesarias.
 
 
 interface Action{
