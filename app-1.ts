@@ -1,5 +1,7 @@
 //Acciones  
 //Segundo comentario
+//Este es el comentario de la ramma feature a partir de la develop que estab subida.
+
 
 interface Action{
     type:string;
